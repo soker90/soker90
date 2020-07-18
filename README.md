@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Edu
 
-A full-stack developer from LA MANCHA 🇪🇸
+A Full Stack developer from LA MANCHA 🇪🇸
 
 #### My Tech Stack
 
