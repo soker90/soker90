@@ -20,6 +20,7 @@ A Full Stack developer from LA MANCHA 🇪🇸
   <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="php" width="24px" height="24px"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="24px" height="24px"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" width="24px" height="24px"/>  
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="24px" height="24px"/>
 </p>
 
 
