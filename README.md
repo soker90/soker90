@@ -38,6 +38,13 @@ A Full Stack developer from LA MANCHA 🇪🇸
   <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="24px" height="24px"/>  
 </p>
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
 <!--
 **soker90/soker90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
