@@ -58,11 +58,11 @@ A Full Stack developer from LA MANCHA 🇪🇸
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1878](https://github.com//timburgan/timburgan/issues/1878) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-2. 🎉 Merged PR [#21](https://github.com//soker90/arroyo-erp-models/pull/21) in [soker90/arroyo-erp-models](https://github.com//soker90/arroyo-erp-models)
-3. ❌ Closed PR [#137](https://github.com//soker90/arroyo-erp-client/pull/137) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
-4. 🎉 Merged PR [#136](https://github.com//soker90/arroyo-erp-client/pull/136) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
-5. 🎉 Merged PR [#135](https://github.com//soker90/arroyo-erp-client/pull/135) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
+1. ❗️ Opened issue [#1925](https://github.com//timburgan/timburgan/issues/1925) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+2. ❗️ Opened issue [#1922](https://github.com//timburgan/timburgan/issues/1922) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+3. ❗️ Opened issue [#1878](https://github.com//timburgan/timburgan/issues/1878) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+4. 🎉 Merged PR [#21](https://github.com//soker90/arroyo-erp-models/pull/21) in [soker90/arroyo-erp-models](https://github.com//soker90/arroyo-erp-models)
+5. ❌ Closed PR [#137](https://github.com//soker90/arroyo-erp-client/pull/137) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
 <!--END_SECTION:activity-->
 
 
