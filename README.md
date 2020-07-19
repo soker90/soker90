@@ -2,6 +2,8 @@
 
 A Full Stack developer from LA MANCHA 🇪🇸
 
+🔭 I’m currently working on Arroyo ERP: [CLIENT](https://github.com/soker90/arroyo-erp-client), [API](https://github.com/soker90/arroyo-erp-api) and [MODELS](https://github.com/soker90/arroyo-erp-models)
+
 #### My Tech Stack
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
