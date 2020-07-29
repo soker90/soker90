@@ -58,11 +58,11 @@ A Full Stack developer from LA MANCHA 🇪🇸
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#177](https://github.com//soker90/arroyo-erp-client/pull/177) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
-2. 🎉 Merged PR [#182](https://github.com//soker90/arroyo-erp-client/pull/182) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
-3. 🎉 Merged PR [#183](https://github.com//soker90/arroyo-erp-client/pull/183) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
-4. 🎉 Merged PR [#178](https://github.com//soker90/arroyo-erp-client/pull/178) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
-5. 🎉 Merged PR [#179](https://github.com//soker90/arroyo-erp-client/pull/179) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
+1. 🎉 Merged PR [#181](https://github.com//soker90/arroyo-erp-client/pull/181) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
+2. 🎉 Merged PR [#177](https://github.com//soker90/arroyo-erp-client/pull/177) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
+3. 🎉 Merged PR [#182](https://github.com//soker90/arroyo-erp-client/pull/182) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
+4. 🎉 Merged PR [#183](https://github.com//soker90/arroyo-erp-client/pull/183) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
+5. 🎉 Merged PR [#178](https://github.com//soker90/arroyo-erp-client/pull/178) in [soker90/arroyo-erp-client](https://github.com//soker90/arroyo-erp-client)
 <!--END_SECTION:activity-->
 
 
