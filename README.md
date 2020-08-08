@@ -58,11 +58,11 @@ A Full Stack developer from LA MANCHA 🇪🇸
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com//soker90/arroyo-erp-models/issues/32) in [soker90/arroyo-erp-models](https://github.com//soker90/arroyo-erp-models)
-2. ❗️ Closed issue [#32](https://github.com//soker90/arroyo-erp-models/issues/32) in [soker90/arroyo-erp-models](https://github.com//soker90/arroyo-erp-models)
-3. 🗣 Commented on [#32](https://github.com//soker90/arroyo-erp-models/issues/32) in [soker90/arroyo-erp-models](https://github.com//soker90/arroyo-erp-models)
-4. ❗️ Opened issue [#46](https://github.com//soker90/arroyo-erp-api/issues/46) in [soker90/arroyo-erp-api](https://github.com//soker90/arroyo-erp-api)
-5. ❗️ Closed issue [#42](https://github.com//soker90/arroyo-erp-api/issues/42) in [soker90/arroyo-erp-api](https://github.com//soker90/arroyo-erp-api)
+1. ❗️ Opened issue [#47](https://github.com//soker90/arroyo-erp-api/issues/47) in [soker90/arroyo-erp-api](https://github.com//soker90/arroyo-erp-api)
+2. 🗣 Commented on [#32](https://github.com//soker90/arroyo-erp-models/issues/32) in [soker90/arroyo-erp-models](https://github.com//soker90/arroyo-erp-models)
+3. ❗️ Closed issue [#32](https://github.com//soker90/arroyo-erp-models/issues/32) in [soker90/arroyo-erp-models](https://github.com//soker90/arroyo-erp-models)
+4. 🗣 Commented on [#32](https://github.com//soker90/arroyo-erp-models/issues/32) in [soker90/arroyo-erp-models](https://github.com//soker90/arroyo-erp-models)
+5. ❗️ Opened issue [#46](https://github.com//soker90/arroyo-erp-api/issues/46) in [soker90/arroyo-erp-api](https://github.com//soker90/arroyo-erp-api)
 <!--END_SECTION:activity-->
 
 
