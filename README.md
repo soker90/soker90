@@ -58,11 +58,11 @@ A Full Stack developer from LA MANCHA 🇪🇸
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com//soker90/arroyo-erp-models/pull/33) in [soker90/arroyo-erp-models](https://github.com//soker90/arroyo-erp-models)
-2. ❗️ Closed issue [#46](https://github.com//soker90/arroyo-erp-api/issues/46) in [soker90/arroyo-erp-api](https://github.com//soker90/arroyo-erp-api)
-3. ❗️ Opened issue [#788](https://github.com//JonathanGin52/JonathanGin52/issues/788) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#47](https://github.com//soker90/arroyo-erp-api/issues/47) in [soker90/arroyo-erp-api](https://github.com//soker90/arroyo-erp-api)
-5. 🗣 Commented on [#32](https://github.com//soker90/arroyo-erp-models/issues/32) in [soker90/arroyo-erp-models](https://github.com//soker90/arroyo-erp-models)
+1. ❗️ Opened issue [#837](https://github.com//JonathanGin52/JonathanGin52/issues/837) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#836](https://github.com//JonathanGin52/JonathanGin52/issues/836) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#835](https://github.com//JonathanGin52/JonathanGin52/issues/835) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#834](https://github.com//JonathanGin52/JonathanGin52/issues/834) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#833](https://github.com//JonathanGin52/JonathanGin52/issues/833) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 
