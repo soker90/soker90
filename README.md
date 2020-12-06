@@ -58,11 +58,11 @@ A Full Stack developer from LA MANCHA 🇪🇸
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/soker90/arroyo-erp-models/pull/111) in [soker90/arroyo-erp-models](https://github.com/soker90/arroyo-erp-models)
-2. 🎉 Merged PR [#110](https://github.com/soker90/arroyo-erp-models/pull/110) in [soker90/arroyo-erp-models](https://github.com/soker90/arroyo-erp-models)
-3. 🎉 Merged PR [#109](https://github.com/soker90/arroyo-erp-models/pull/109) in [soker90/arroyo-erp-models](https://github.com/soker90/arroyo-erp-models)
-4. 🎉 Merged PR [#108](https://github.com/soker90/arroyo-erp-models/pull/108) in [soker90/arroyo-erp-models](https://github.com/soker90/arroyo-erp-models)
-5. 🎉 Merged PR [#318](https://github.com/soker90/arroyo-erp-client/pull/318) in [soker90/arroyo-erp-client](https://github.com/soker90/arroyo-erp-client)
+1. ❗️ Opened issue [#3](https://github.com/soker90/react-backoffice-template/issues/3) in [soker90/react-backoffice-template](https://github.com/soker90/react-backoffice-template)
+2. ❗️ Opened issue [#2](https://github.com/soker90/react-backoffice-template/issues/2) in [soker90/react-backoffice-template](https://github.com/soker90/react-backoffice-template)
+3. 🎉 Merged PR [#111](https://github.com/soker90/arroyo-erp-models/pull/111) in [soker90/arroyo-erp-models](https://github.com/soker90/arroyo-erp-models)
+4. 🎉 Merged PR [#110](https://github.com/soker90/arroyo-erp-models/pull/110) in [soker90/arroyo-erp-models](https://github.com/soker90/arroyo-erp-models)
+5. 🎉 Merged PR [#109](https://github.com/soker90/arroyo-erp-models/pull/109) in [soker90/arroyo-erp-models](https://github.com/soker90/arroyo-erp-models)
 <!--END_SECTION:activity-->
 
 
