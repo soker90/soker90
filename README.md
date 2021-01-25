@@ -58,11 +58,11 @@ A Full Stack developer from LA MANCHA 🇪🇸
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/midudev/covid-vacuna/issues/54) in [midudev/covid-vacuna](https://github.com/midudev/covid-vacuna)
-2. 🎉 Merged PR [#338](https://github.com/soker90/arroyo-erp-client/pull/338) in [soker90/arroyo-erp-client](https://github.com/soker90/arroyo-erp-client)
-3. 🗣 Commented on [#26](https://github.com/midudev/covid-vacuna/issues/26) in [midudev/covid-vacuna](https://github.com/midudev/covid-vacuna)
+1. 💪 Opened PR [#56](https://github.com/midudev/covid-vacuna/pull/56) in [midudev/covid-vacuna](https://github.com/midudev/covid-vacuna)
+2. 🗣 Commented on [#54](https://github.com/midudev/covid-vacuna/issues/54) in [midudev/covid-vacuna](https://github.com/midudev/covid-vacuna)
+3. 🎉 Merged PR [#338](https://github.com/soker90/arroyo-erp-client/pull/338) in [soker90/arroyo-erp-client](https://github.com/soker90/arroyo-erp-client)
 4. 🗣 Commented on [#26](https://github.com/midudev/covid-vacuna/issues/26) in [midudev/covid-vacuna](https://github.com/midudev/covid-vacuna)
-5. 🗣 Commented on [#24](https://github.com/midudev/covid-vacuna/issues/24) in [midudev/covid-vacuna](https://github.com/midudev/covid-vacuna)
+5. 🗣 Commented on [#26](https://github.com/midudev/covid-vacuna/issues/26) in [midudev/covid-vacuna](https://github.com/midudev/covid-vacuna)
 <!--END_SECTION:activity-->
 
 
