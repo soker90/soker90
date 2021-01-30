@@ -38,9 +38,9 @@ A Full Stack developer from LA MANCHA 🇪🇸
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg" alt="love" width="24px" height="24px"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="24px" height="24px"/>
   <img src="https://symbols.getvecta.com/stencil_74/94_arch-linux-icon.ef027ae7a3.svg" alt="archlinux" width="24px" height="24px"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/firefox/firefox-original.svg" alt="firefox" width="24px" height="24px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox" width="24px" height="24px"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Gnomelogo-footprint.svg" alt="gnome" width="24px" height="24px"/>
 </p>
 
