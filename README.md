@@ -48,7 +48,7 @@ A Full Stack developer from LA MANCHA 🇪🇸
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="24px" height="24px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="24px" height="24px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="24px" height="24px"/>  
 </p>
