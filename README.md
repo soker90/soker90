@@ -18,21 +18,21 @@ A Full Stack developer from LA MANCHA 🇪🇸
 
 #### My Tech Stack
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="24px" height="24px"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="24px" height="24px"/>
   <img src="https://bestofjs.org/logos/storybook.svg" alt="storybook" width="24px" height="24px"/>
   <img src="https://bestofjs.org/logos/cypress.svg" alt="cypress" width="24px" height="24px"/>
 </p>
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24px" height="24px"/>
 </p>
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="php" width="24px" height="24px"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="24px" height="24px"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" width="24px" height="24px"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="24px" height="24px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="24px" height="24px"/>
 </p>
 
 
@@ -48,9 +48,9 @@ A Full Stack developer from LA MANCHA 🇪🇸
 
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="24px" height="24px"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="24px" height="24px"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="24px" height="24px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="24px" height="24px"/>  
 </p>
 
 ---
