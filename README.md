@@ -58,11 +58,11 @@ A Full Stack developer from LA MANCHA 🇪🇸
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/soker90/carpinteria-erp-client/pull/118) in [soker90/carpinteria-erp-client](https://github.com/soker90/carpinteria-erp-client)
-2. 🎉 Merged PR [#119](https://github.com/soker90/carpinteria-erp-client/pull/119) in [soker90/carpinteria-erp-client](https://github.com/soker90/carpinteria-erp-client)
-3. 🎉 Merged PR [#120](https://github.com/soker90/carpinteria-erp-client/pull/120) in [soker90/carpinteria-erp-client](https://github.com/soker90/carpinteria-erp-client)
-4. 🎉 Merged PR [#122](https://github.com/soker90/carpinteria-erp-client/pull/122) in [soker90/carpinteria-erp-client](https://github.com/soker90/carpinteria-erp-client)
-5. 🎉 Merged PR [#186](https://github.com/soker90/arroyo-erp-models/pull/186) in [soker90/arroyo-erp-models](https://github.com/soker90/arroyo-erp-models)
+1. 🎉 Merged PR [#433](https://github.com/soker90/arroyo-erp-client/pull/433) in [soker90/arroyo-erp-client](https://github.com/soker90/arroyo-erp-client)
+2. 🎉 Merged PR [#432](https://github.com/soker90/arroyo-erp-client/pull/432) in [soker90/arroyo-erp-client](https://github.com/soker90/arroyo-erp-client)
+3. 🎉 Merged PR [#54](https://github.com/soker90/carpinteria-erp-models/pull/54) in [soker90/carpinteria-erp-models](https://github.com/soker90/carpinteria-erp-models)
+4. 🎉 Merged PR [#117](https://github.com/soker90/carpinteria-erp-client/pull/117) in [soker90/carpinteria-erp-client](https://github.com/soker90/carpinteria-erp-client)
+5. 🎉 Merged PR [#116](https://github.com/soker90/carpinteria-erp-client/pull/116) in [soker90/carpinteria-erp-client](https://github.com/soker90/carpinteria-erp-client)
 <!--END_SECTION:activity-->
 
 
