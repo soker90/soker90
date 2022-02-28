@@ -55,7 +55,7 @@ A Full Stack developer from LA MANCHA 🇪🇸
 
 ---
 
-### :zap: Las projects
+### :zap: Last projects
 
 1. [Arroyo ERP](https://github.com/soker90/arroyo-erp-project) - Un backoffice para pymes
 2. [Precio de la gasolina](https://github.com/soker90/precio-gasolina) - Notifica cambios de precio de una gasolinera
