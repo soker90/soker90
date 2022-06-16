@@ -14,7 +14,7 @@
 
 A Full Stack developer from LA MANCHA 🇪🇸
 
-🔭 I’m currently working on Arroyo ERP: [CLIENT](https://github.com/soker90/arroyo-erp-client), [API](https://github.com/soker90/arroyo-erp-api) and [MODELS](https://github.com/soker90/arroyo-erp-models)
+🔭 I’m currently working on [Finper](https://github.com/soker90/finper)
 
 #### My Tech Stack
 <p align="left">
