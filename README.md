@@ -12,7 +12,7 @@
 
 ### Hi 👋, I'm Edu 
 
-A Full Stack developer from LA MANCHA 🇪🇸
+A JS developer from LA MANCHA 🇪🇸
 
 🔭 I’m currently working on [Finper](https://github.com/soker90/finper)
 
