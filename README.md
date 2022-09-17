@@ -20,9 +20,12 @@ A JS developer from LA MANCHA 🇪🇸
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="24px" height="24px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="24px" height="24px"/>
-  <img src="https://bestofjs.org/logos/storybook.svg" alt="storybook" width="24px" height="24px"/>
-  <img src="https://bestofjs.org/logos/cypress.svg" alt="cypress" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="24px" height="24px"/> 
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="24px" height="24px"/>  
 </p>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24px" height="24px"/>
@@ -48,9 +51,8 @@ A JS developer from LA MANCHA 🇪🇸
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="24px" height="24px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="24px" height="24px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="24px" height="24px"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-plain.svg" alt="svelte-plain" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="24px" height="24px"/>
 </p>
 
 ---
