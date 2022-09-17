@@ -51,7 +51,7 @@ A JS developer from LA MANCHA 🇪🇸
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-plain.svg" alt="svelte-plain" width="24px" height="24px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte-plain" width="24px" height="24px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="24px" height="24px"/>
 </p>
 
