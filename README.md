@@ -75,7 +75,7 @@ TODO
 
 ## 🔥 Streak stats
 
-<div align="center">
+<div align="center" width='auto'>
   <a href="https://git.io/streak-stats">
     <img alt="streak" src="https://streak-stats.demolab.com?user=soker90&theme=react&date_format=j%20M%5B%20Y%5D"/>
   </a>
