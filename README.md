@@ -1,22 +1,38 @@
-<p align="right">
-   <a href="https://twitter.com/eduparra90" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eduparra90" height="16px" width="16px" />
-  </a>
-  <a href="https://www.linkedin.com/in/eduardoparramazuecos/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eduardoparramazuecos" height="16px" width="16px" />
-  </a>
-  <a href="http://www.eduardoparra.es/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="eduardoparra.es" height="16px" width="16px" />
-  </a>
+<p align="center" width="300">
+   <img align="center" width="200" src="./assets/image.png" />
 </p>
 
-### Hi 👋, I'm Edu 
+<div id="social" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/eduardoparramazuecos/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="http://www.eduardoparra.es/">
+      <img src="https://img.shields.io/badge/Blogger-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://twitter.com/eduparra90">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
 
-A JS developer from LA MANCHA 🇪🇸
+<div align="center">
+  <img src="./assets/coding.gif" width="600" height="300"/>
+</div>
 
-🔭 I’m currently working on [Finper](https://github.com/soker90/finper)
+
+
+
+<div align="center">
+  <h3>Hi 👋, I'm Edu </h3>
+  <p>A JS developer from <span style='font-weight: bold'>La Mancha</span> 🇪🇸</p>
+  <p>🔭 I’m currently working on <a href="https://github.com/soker90/finper">Finper</a></p>
+</div>
 
 #### My Tech Stack
+
+TODO
+<!--
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="24px" height="24px"/>
@@ -47,6 +63,8 @@ A JS developer from LA MANCHA 🇪🇸
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Gnomelogo-footprint.svg" alt="gnome" width="24px" height="24px"/>
 </p>
 
+-->
+
 #### I'm currently learning
 
 
@@ -54,6 +72,17 @@ A JS developer from LA MANCHA 🇪🇸
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte-plain" width="24px" height="24px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="24px" height="24px"/>
 </p>
+
+## 🔥 Streak stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="streak" src="https://streak-stats.demolab.com?user=soker90&theme=react&date_format=j%20M%5B%20Y%5D"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soker90&layout=compact&theme=react"/>
+  </a>
+</div>
 
 ---
 
