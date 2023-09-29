@@ -10,7 +10,7 @@
     <a href="http://www.eduardoparra.es/">
       <img src="https://img.shields.io/badge/Blogger-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/eduparra90">
+    <a href="https://twitter.com/_eduparra">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
