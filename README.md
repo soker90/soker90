@@ -96,8 +96,8 @@ TODO
 
 
 ### 👨‍🎓 Last resources added
-<!-- feed start -->
-<!-- feed end -->
+<!-- START_SECTION:links -->
+<!-- END_SECTION:links -->
 
 <!--
 **soker90/soker90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
