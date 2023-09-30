@@ -18,7 +18,7 @@ jobs:
       
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: 'https://link.eduardoparra.es/rss.xml'
+          url: 'http://link.eduardoparra.es/rss.xml'
           file: 'README.md'
           format: '- [${title}](${url})'
           start_flag: '<!-- START_SECTION:links -->'
