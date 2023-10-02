@@ -97,11 +97,11 @@ TODO
 
 ### 👨‍🎓 Last resources added
 <!-- START_SECTION:links -->
-- [Sonner](https://links.eduardoparra.es/21)
-- [UIverse](https://links.eduardoparra.es/19)
-- [Squoosh](https://links.eduardoparra.es/20)
-- [Tailblocks](https://links.eduardoparra.es/18)
-- [Para crear mockups online](https://links.eduardoparra.es/17)
+- [Shots](https://link.eduardoparra.es/17) - 
+- [Sonner](https://link.eduardoparra.es/21) - 
+- [UIverse](https://link.eduardoparra.es/19) - 
+- [Squoosh](https://link.eduardoparra.es/20) - 
+- [Tailblocks](https://link.eduardoparra.es/18) - 
 <!-- END_SECTION:links -->
 
 <!--
