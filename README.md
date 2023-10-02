@@ -97,8 +97,11 @@ TODO
 
 ### 👨‍🎓 Last resources added
 <!-- START_SECTION:links -->
-- [GA para disparar eventos(GA) en otros repositorios](https://links.eduardoparra.es/16)
-- [Open-source monitoring service](https://links.eduardoparra.es/15)
+- [Sonner](https://links.eduardoparra.es/21)
+- [UIverse](https://links.eduardoparra.es/19)
+- [Squoosh](https://links.eduardoparra.es/20)
+- [Tailblocks](https://links.eduardoparra.es/18)
+- [Para crear mockups online](https://links.eduardoparra.es/17)
 <!-- END_SECTION:links -->
 
 <!--
