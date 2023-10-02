@@ -16,8 +16,8 @@ jobs:
       #  env:
       #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: feed
-        uses: sarisia/actions-readme-feed@v1
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
         with:
           url: 'http://link.eduardoparra.es/rss.xml'
           file: 'README.md'
