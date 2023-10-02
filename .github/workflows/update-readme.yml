@@ -21,7 +21,7 @@ jobs:
         with:
           url: 'http://link.eduardoparra.es/rss.xml'
           file: 'README.md'
-          format: '- [${title}](${url})'
+          format: '- [${title}](${url}) - ${description}'
           start_flag: '<!-- START_SECTION:links -->'
           end_flag: '<!-- END_SECTION:links -->'
           
