@@ -97,6 +97,10 @@ TODO
 
 ### 👨‍🎓 Last resources added
 <!-- START_SECTION:links -->
+- [GA para disparar eventos(GA) en otros repositorios](https://links.eduardoparra.es/16)
+- [Open-source monitoring service](https://links.eduardoparra.es/15)
+- [Open-source monitoring service](https://links.eduardoparra.es/6)
+- [Prueba de formulario](https://links.eduardoparra.es/10)
 <!-- END_SECTION:links -->
 
 <!--
