@@ -26,52 +26,7 @@
 <div align="center">
   <h3>Hi 👋, I'm Edu </h3>
   <p>A JS developer from <span style='font-weight: bold'>La Mancha</span> 🇪🇸</p>
-  <p>🔭 I’m currently working on <a href="https://github.com/soker90/finper">Finper</a></p>
 </div>
-
-#### My Tech Stack
-
-TODO
-<!--
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="24px" height="24px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="24px" height="24px"/> 
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="24px" height="24px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="24px" height="24px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="24px" height="24px"/>  
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24px" height="24px"/>
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="24px" height="24px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="24px" height="24px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="24px" height="24px"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="24px" height="24px"/>
-</p>
-
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg" alt="love" width="24px" height="24px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="24px" height="24px"/>
-  <img src="https://symbols.getvecta.com/stencil_74/94_arch-linux-icon.ef027ae7a3.svg" alt="archlinux" width="24px" height="24px"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox" width="24px" height="24px"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Gnomelogo-footprint.svg" alt="gnome" width="24px" height="24px"/>
-</p>
-
--->
-
-#### I'm currently learning
-
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte-plain" width="24px" height="24px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="24px" height="24px"/>
-</p>
 
 ## 🔥 Streak stats
 
