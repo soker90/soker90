@@ -53,10 +53,10 @@
 ### 👨‍🎓 Last resources added
 <!-- START_SECTION:links -->
 - [Shots](https://link.eduardoparra.es/17) - 
+- [AstroCompress](https://link.eduardoparra.es/22) - 
 - [Sonner](https://link.eduardoparra.es/21) - 
 - [UIverse](https://link.eduardoparra.es/19) - 
 - [Squoosh](https://link.eduardoparra.es/20) - 
-- [Tailblocks](https://link.eduardoparra.es/18) - 
 <!-- END_SECTION:links -->
 
 <!--
