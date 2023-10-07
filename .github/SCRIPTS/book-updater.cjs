@@ -32,7 +32,7 @@ const prepareForReadme = async ({ core, fetch }) => {
 
   if (books.length === 0) {
     writeReadme({
-      booksList: `### 📚 Last books added\n\nNo books added yet`,
+      booksList: `### 📚 Currently reading\n\nNo books added yet`,
       core,
     });
     return;
@@ -48,7 +48,7 @@ const prepareForReadme = async ({ core, fetch }) => {
   core.info(booksList);
 
   await writeReadme({
-    booksList: `### 📚 Last books added\n\n${booksList}`,
+    booksList: `### 📚 Currently reading\n\n${booksList}`,
     core,
   });
 };

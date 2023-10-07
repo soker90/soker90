@@ -16,7 +16,6 @@ jobs:
 
       - name: Get books
         uses: actions/github-script@v6
-        id: get-book
         with:
           github-token: 1
           script: |
@@ -26,6 +25,7 @@ jobs:
           
       - name: Commit readme modifications
         uses: stefanzweifel/git-auto-commit-action@v4
+        id: get-book
         with:
           file_pattern: 'README.md'
           commit_message: 'Update books'
