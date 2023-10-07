@@ -60,7 +60,7 @@
 <!-- END_SECTION:links -->
 
 <!-- START_SECTION:books -->
-### 📚 Last books added
+### 📚 Currently reading
 
 [![El Ritmo de la Guerra (El Archivo de las Tormentas 4)](http://books.google.com/books/content?id=NFfuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/soker90/libros/issues/1 "El Ritmo de la Guerra (El Archivo de las Tormentas 4) by Brandon Sanderson")
 <!-- END_SECTION:books -->
