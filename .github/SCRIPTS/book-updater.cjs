@@ -1,4 +1,5 @@
 const fs = require("fs");
+const fetch = require("node-fetch");
 
 const getBooks = async ({ core }) => {
   core.info("Getting books...");
