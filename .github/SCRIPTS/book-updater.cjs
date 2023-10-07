@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const getBooks = async ({ core }) => {
+const getBooks = async ({ core, fetch }) => {
   core.info("Getting books...");
   return fetch("https://soker90.github.io/libros/api.json").then((response) =>
     response
@@ -26,8 +26,8 @@ const writeReadme = async ({ booksList, core }) => {
   fs.writeFileSync("./README.md", newReadme, { encoding: "utf8" });
 };
 
-const prepareForReadme = async ({ core }) => {
-  const books = await getBooks({ core });
+const prepareForReadme = async ({ core, fetch }) => {
+  const books = await getBooks({ core, fetch });
   core.info(`Received ${books.length} books`);
 
   if (books.length === 0) {

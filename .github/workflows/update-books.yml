@@ -21,7 +21,7 @@ jobs:
           github-token: 1
           script: |
             const script = require('./.github/SCRIPTS/book-updater.cjs')
-            await script({core})
+            await script({core, fetch})
       
           
       - if: ${{ steps.get-book.outputs.changed == true }}
