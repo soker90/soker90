@@ -1,0 +1,29 @@
+name: Update Books
+
+on:
+  schedule:
+  - cron: '0 12 * * *'
+    
+  
+  workflow_dispatch:
+
+jobs:
+  books:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get books
+        uses: actions/github-script@v5
+        id: download-issue
+        with:
+          github-token: 1
+          script: |
+            const script = require('./.github/SCRIPTS/book-updater.cjs')
+            await script({core})
+      
+          
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
+        
