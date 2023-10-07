@@ -52,11 +52,11 @@
 
 ### 👨‍🎓 Last resources added
 <!-- START_SECTION:links -->
+- [git-auto-commit-action](https://link.eduardoparra.es/23) - 
 - [Shots](https://link.eduardoparra.es/17) - 
 - [AstroCompress](https://link.eduardoparra.es/22) - 
 - [Sonner](https://link.eduardoparra.es/21) - 
 - [UIverse](https://link.eduardoparra.es/19) - 
-- [Squoosh](https://link.eduardoparra.es/20) - 
 <!-- END_SECTION:links -->
 
 <!-- START_SECTION:books -->
