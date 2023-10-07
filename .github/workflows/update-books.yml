@@ -15,8 +15,8 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Get books
-        uses: actions/github-script@v5
-        id: download-issue
+        uses: actions/github-script@v6
+        id: get-book
         with:
           github-token: 1
           script: |
@@ -24,6 +24,6 @@ jobs:
             await script({core})
       
           
-      - if: ${{ steps.feed.outputs.changed == true }}
+      - if: ${{ steps.get-book.outputs.changed == true }}
         uses: sarisia/actions-commit@master
         
