@@ -24,6 +24,18 @@ jobs:
             await script({core, fetch})
       
           
-      - if: ${{ steps.get-book.outputs.changed == true }}
-        uses: sarisia/actions-commit@master
+      - name: Commit readme modifications
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: 'README.md'
+          commit_message: 'Update books'
+
+      - name: Updated
+        if: steps.get-book.outputs.changes_detected == true
+        run: echo "Updated"
+
+      - name: Not updated
+        if: steps.get-book.outputs.changes_detected == false
+        run: echo "Not updated"
+      
         
