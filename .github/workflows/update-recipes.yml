@@ -1,0 +1,25 @@
+name: Update Links
+
+on:
+  schedule:
+    - cron: '*/60 * * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          url: 'https://recetas.eduardoparra.es/rss.xml'
+          file: 'README.md'
+          format: '- [${title}](${url})'
+          start_flag: '<!-- START_SECTION:recipes -->'
+          end_flag: '<!-- END_SECTION:recipes -->'
+          
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
