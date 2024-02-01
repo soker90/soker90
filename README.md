@@ -68,8 +68,6 @@
 [![El Hombre Iluminado (Novela Secreta 4)](http://books.google.com/books/content?id=xn3aEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/soker90/libros/issues/3 "El Hombre Iluminado (Novela Secreta 4) by Brandon Sanderson")
 <!-- END_SECTION:books -->
 
-<!--
-
 ### 🧑‍🍳 My last cooking recipes
 <!-- START_SECTION:recipes -->
 - [Bollicaos](https://recetas.eduardoparra.es/blog/bollicaos/)
@@ -79,4 +77,3 @@
 - [Donettes de lentejas](https://recetas.eduardoparra.es/blog/donettes-de-lentejas/)
 <!-- END_SECTION:recipes -->
 
-<!--
