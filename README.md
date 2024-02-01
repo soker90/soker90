@@ -67,7 +67,7 @@ No books added yet
 
 <!--
 
-
+### 🧑‍🍳 My last cooking recipes
 <!-- START_SECTION:recipes -->
 - [Bollicaos](https://recetas.eduardoparra.es/blog/bollicaos/)
 - [Brócoli al limón con costra de tomillo](https://recetas.eduardoparra.es/blog/br%C3%B3coli-al-lim%C3%B3n-con-costra-de-tomillo/)
