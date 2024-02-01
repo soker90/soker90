@@ -1,4 +1,4 @@
-name: Update Links
+name: Update Recipes
 
 on:
   schedule:
