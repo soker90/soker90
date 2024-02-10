@@ -68,10 +68,10 @@
 
 ### 🧑‍🍳 My last cooking recipes
 <!-- START_SECTION:recipes -->
+- [Cheesecake de dinosaurios](https://recetas.eduardoparra.es/blog/cheesecake-de-dinosaurios/)
 - [Bollicaos](https://recetas.eduardoparra.es/blog/bollicaos/)
 - [Brócoli al limón con costra de tomillo](https://recetas.eduardoparra.es/blog/br%C3%B3coli-al-lim%C3%B3n-con-costra-de-tomillo/)
 - [Flan de café con muy pocos ingredientes](https://recetas.eduardoparra.es/blog/postre-de-cafe/)
 - [Horchata](https://recetas.eduardoparra.es/blog/horchata/)
-- [Donettes de lentejas](https://recetas.eduardoparra.es/blog/donettes-de-lentejas/)
 <!-- END_SECTION:recipes -->
 
