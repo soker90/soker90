@@ -52,11 +52,11 @@
 
 ### 👨‍🎓 Last resources added
 <!-- START_SECTION:links -->
+- [Fontsource](https://link.eduardoparra.es/29) - 
 - [Tauri for desktop app](https://link.eduardoparra.es/28) - 
 - [JSON Data Ai](https://link.eduardoparra.es/27) - 
 - [Bruno](https://link.eduardoparra.es/26) - 
 - [Resend](https://link.eduardoparra.es/25) - 
-- [article-extractor](https://link.eduardoparra.es/24) - 
 <!-- END_SECTION:links -->
 
 <!-- START_SECTION:books -->
