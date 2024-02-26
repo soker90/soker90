@@ -62,7 +62,8 @@
 <!-- START_SECTION:books -->
 ### 📚 Currently reading
 
-[![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/0 "Isabella of Spain by William Thomas Walsh")
+[![Organízate con eficacia](https://tse2.mm.bing.net/th?q=Organ%C3%ADzate%20con%20eficacia%20by%20David%20Allen&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate)](https://github.com/soker90/libros/issues/0 "Organízate con eficacia by David Allen")
+[![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/1 "Isabella of Spain by William Thomas Walsh")
 <!-- END_SECTION:books -->
 
 ### 🧑‍🍳 My last cooking recipes
