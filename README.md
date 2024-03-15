@@ -31,9 +31,6 @@
 ## 🔥 Streak stats
 
 <div align="center" width='auto'>
-  <a href="https://git.io/streak-stats">
-    <img alt="streak" src="https://streak-stats.demolab.com?user=soker90&theme=react&date_format=j%20M%5B%20Y%5D"/>
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soker90&layout=compact&theme=react"/>
   </a>
