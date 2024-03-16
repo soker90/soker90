@@ -59,7 +59,6 @@
 <!-- START_SECTION:books -->
 ### 📚 Currently reading
 
-[![Cronica de una muerte anunciada - Tapa dura](http://books.google.com/books/content?id=bQ8_ckZEYDkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/soker90/libros/issues/0 "Cronica de una muerte anunciada - Tapa dura by Gabriel Garca̕ Mr̀quez")
 [![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/2 "Isabella of Spain by William Thomas Walsh")
 <!-- END_SECTION:books -->
 
