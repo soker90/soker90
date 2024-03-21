@@ -98,7 +98,7 @@
 ### 🧑‍🍳 My last cooking recipes
 
 <!-- START_SECTION:recipes -->
-<div class="image-grid">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); grid-auto-rows: minmax(180px, auto); gap: 10px; overflow: auto; padding: 10px;">
 <div class="image-container">
     <a href='https://recetas.eduardoparra.es/blog/cheesecake-de-dinosaurios/' target="_blank">
         <img src='https://recetas.eduardoparra.es/images/uploads/cheesecake-dinosaurios.webp' alt="Instagram photo" />

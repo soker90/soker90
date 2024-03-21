@@ -34,7 +34,7 @@ const getLatestRecipes = () =>
     })
     .slice(0, 5)
     .map(
-      ({ title, link, image, ...rest }) => `<div class="image-container">
+      ({ title, link, image, ...rest }) => `<div style="overflow: hidden; max-width: 100%; max-height: 100%; position: relative;">
     <a href='${link}' target="_blank">
         <img src='${
           image || "https://recetas.eduardoparra.es/assets/logo.svg"
