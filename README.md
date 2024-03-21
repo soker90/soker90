@@ -1,3 +1,36 @@
+<style>
+    .image-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+        grid-auto-rows: minmax(180px, auto);
+        gap: 10px;
+        overflow: auto;
+        padding: 10px;
+    }
+    .image-container {
+        overflow: hidden;
+        max-width: 100%;
+        max-height: 100%;
+        position: relative;
+    }
+    .image-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .image-title {
+        position: absolute;
+        bottom: 0;
+        left: 0; 
+        width: 100%; 
+        background-color: rgba(0, 0, 0, 0.5); 
+        color: white; 
+        padding: 5px; 
+        box-sizing: border-box;
+        text-align: center; 
+    }
+</style>
+
 <p align="center" width="300">
    <img align="center" width="200" src="./assets/image.png" />
 </p>
@@ -61,39 +94,6 @@
 [![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/2 "Isabella of Spain by William Thomas Walsh")
 
 <!-- END_SECTION:books -->
-
-<style>
-    .image-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-        grid-auto-rows: minmax(180px, auto);
-        gap: 10px;
-        overflow: auto;
-        padding: 10px;
-    }
-    .image-container {
-        overflow: hidden;
-        max-width: 100%;
-        max-height: 100%;
-        position: relative;
-    }
-    .image-container img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-    .image-title {
-        position: absolute;
-        bottom: 0;
-        left: 0; 
-        width: 100%; 
-        background-color: rgba(0, 0, 0, 0.5); 
-        color: white; 
-        padding: 5px; 
-        box-sizing: border-box;
-        text-align: center; 
-    }
-</style>
 
 ### 🧑‍🍳 My last cooking recipes
 
