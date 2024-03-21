@@ -20,9 +20,6 @@
   <img src="./assets/coding.gif" width="600" height="300"/>
 </div>
 
-
-
-
 <div align="center">
   <h3>Hi 👋, I'm Edu </h3>
   <p>A JS developer from <span style='font-weight: bold'>La Mancha</span> 🇪🇸</p>
@@ -44,30 +41,93 @@
 2. [Cocina con Edu](https://github.com/soker90/cooking-blog) - Blog con recetas de cocina
 3. [Alameda de Cervera](https://alamedadecervera.com) - Web dedicada al municipio de Alameda de Cervera
 4. [Precio de la gasolina](https://github.com/soker90/precio-gasolina) - Notifica cambios de precio de una gasolinera
-6. [Betcon](http://betcon.eduardoparra.es) - Aplicación multiplataforma para la gestión de apuestas deportivas
-
+5. [Betcon](http://betcon.eduardoparra.es) - Aplicación multiplataforma para la gestión de apuestas deportivas
 
 ### 👨‍🎓 Last resources added
+
 <!-- START_SECTION:links -->
-- [CSS Code Quality Analyzer](https://link.eduardoparra.es/30) - 
-- [Fontsource](https://link.eduardoparra.es/29) - 
-- [Tauri for desktop app](https://link.eduardoparra.es/28) - 
-- [JSON Data Ai](https://link.eduardoparra.es/27) - 
-- [Bruno](https://link.eduardoparra.es/26) - 
+
+- [CSS Code Quality Analyzer](https://link.eduardoparra.es/30) -
+- [Fontsource](https://link.eduardoparra.es/29) -
+- [Tauri for desktop app](https://link.eduardoparra.es/28) -
+- [JSON Data Ai](https://link.eduardoparra.es/27) -
+- [Bruno](https://link.eduardoparra.es/26) -
 <!-- END_SECTION:links -->
 
 <!-- START_SECTION:books -->
+
 ### 📚 Currently reading
 
 [![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/2 "Isabella of Spain by William Thomas Walsh")
+
 <!-- END_SECTION:books -->
 
-### 🧑‍🍳 My last cooking recipes
-<!-- START_SECTION:recipes -->
-- [Tarta de queso de dinosaurios](https://recetas.eduardoparra.es/blog/cheesecake-de-dinosaurios/)
-- [Bollicaos](https://recetas.eduardoparra.es/blog/bollicaos/)
-- [Brócoli al limón con costra de tomillo](https://recetas.eduardoparra.es/blog/br%C3%B3coli-al-lim%C3%B3n-con-costra-de-tomillo/)
-- [Flan de café con muy pocos ingredientes](https://recetas.eduardoparra.es/blog/postre-de-cafe/)
-- [Horchata](https://recetas.eduardoparra.es/blog/horchata/)
-<!-- END_SECTION:recipes -->
+<style>
+    .image-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+        grid-auto-rows: minmax(180px, auto);
+        gap: 10px;
+        overflow: auto;
+        padding: 10px;
+    }
+    .image-container {
+        overflow: hidden;
+        max-width: 100%;
+        max-height: 100%;
+        position: relative;
+    }
+    .image-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .image-title {
+        position: absolute;
+        bottom: 0;
+        left: 0; 
+        width: 100%; 
+        background-color: rgba(0, 0, 0, 0.5); 
+        color: white; 
+        padding: 5px; 
+        box-sizing: border-box;
+        text-align: center; 
+    }
+</style>
 
+### 🧑‍🍳 My last cooking recipes
+
+<!-- START_SECTION:recipes -->
+<div class="image-grid">
+<div class="image-container">
+    <a href='https://recetas.eduardoparra.es/blog/cheesecake-de-dinosaurios/' target="_blank">
+        <img src='https://recetas.eduardoparra.es/images/uploads/cheesecake-dinosaurios.webp' alt="Instagram photo" />
+        <div class="image-title">Tarta de queso de dinosaurios</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href='https://recetas.eduardoparra.es/blog/bollicaos/' target="_blank">
+        <img src='https://recetas.eduardoparra.es/images/uploads/bollicaos.webp' alt="Instagram photo" />
+        <div class="image-title">Bollicaos</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href='https://recetas.eduardoparra.es/blog/br%C3%B3coli-al-lim%C3%B3n-con-costra-de-tomillo/' target="_blank">
+        <img src='https://recetas.eduardoparra.es/assets/logo.svg' alt="Instagram photo" />
+        <div class="image-title">Brócoli al limón con costra de tomillo</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href='https://recetas.eduardoparra.es/blog/postre-de-cafe/' target="_blank">
+        <img src='https://recetas.eduardoparra.es/images/uploads/postre-cafe.webp' alt="Instagram photo" />
+        <div class="image-title">Flan de café con muy pocos ingredientes</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href='https://recetas.eduardoparra.es/blog/horchata/' target="_blank">
+        <img src='https://recetas.eduardoparra.es/images/uploads/img_20221030_122749.jpg' alt="Instagram photo" />
+        <div class="image-title">Horchata</div>
+    </a>
+</div>
+</div>
+<!-- END_SECTION:recipes -->

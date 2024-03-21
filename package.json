@@ -1,0 +1,12 @@
+{
+  "name": "soker90",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "update-readme": "node src/index.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
