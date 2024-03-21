@@ -36,10 +36,10 @@ const getLatestRecipes = () =>
     .map(
       ({ title, link, image, ...rest }) => `<div style="overflow: hidden; max-width: 100%; max-height: 100%; position: relative;">
     <a href='${link}' target="_blank">
-        <img src='${
+        <img style="width: 100%; height: 100%; object-fit: cover;" src='${
           image || "https://recetas.eduardoparra.es/assets/logo.svg"
         }' alt="Instagram photo" />
-        <div class="image-title">${title}</div>
+        <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px; box-sizing: border-box; text-align: center;">${title}</div>
     </a>
 </div>`
     )
