@@ -34,7 +34,7 @@ const getLatestRecipes = () =>
     })
     .slice(0, 5)
     .map(
-      ({ title, link, image, ...rest }) => `<div style="overflow: hidden; max-width: 100%; max-height: 100%; position: relative;">
+      ({ title, link, image, ...rest }) => `<div style="position: relative; overflow: hidden; max-width: 100%; max-height: 100%;">
     <a href='${link}' target="_blank">
         <img style="width: 100%; height: 100%; object-fit: cover;" src='${
           image || "https://recetas.eduardoparra.es/assets/logo.svg"
@@ -45,9 +45,10 @@ const getLatestRecipes = () =>
     )
     .join("\n");
 
+
   const newReadme = readme.replace(
     /<!-- START_SECTION:recipes -->[\s\S]*<!-- END_SECTION:recipes -->/,
-    `<!-- START_SECTION:recipes -->\n<div class="image-grid">\n${latestArticlesMarkdown}\n</div>\n<!-- END_SECTION:recipes -->`
+    `<!-- START_SECTION:recipes -->\n${latestArticlesMarkdown}\n<!-- END_SECTION:recipes -->`
   );
 
   console.log(newReadme);

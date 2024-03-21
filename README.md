@@ -64,37 +64,39 @@
 
 ### 🧑‍🍳 My last cooking recipes
 
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; padding: 10px;">
 <!-- START_SECTION:recipes -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); grid-auto-rows: minmax(180px, auto); gap: 10px; overflow: auto; padding: 10px;">
-<div class="image-container">
+<div style="position: relative; overflow: hidden; max-width: 100%; max-height: 100%;">
     <a href='https://recetas.eduardoparra.es/blog/cheesecake-de-dinosaurios/' target="_blank">
-        <img src='https://recetas.eduardoparra.es/images/uploads/cheesecake-dinosaurios.webp' alt="Instagram photo" />
-        <div class="image-title">Tarta de queso de dinosaurios</div>
+        <img style="width: 100%; height: 100%; object-fit: cover;" src='https://recetas.eduardoparra.es/images/uploads/cheesecake-dinosaurios.webp' alt="Instagram photo" />
+        <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px; box-sizing: border-box; text-align: center;">Tarta de queso de dinosaurios</div>
     </a>
 </div>
-<div class="image-container">
+<div style="position: relative; overflow: hidden; max-width: 100%; max-height: 100%;">
     <a href='https://recetas.eduardoparra.es/blog/bollicaos/' target="_blank">
-        <img src='https://recetas.eduardoparra.es/images/uploads/bollicaos.webp' alt="Instagram photo" />
-        <div class="image-title">Bollicaos</div>
+        <img style="width: 100%; height: 100%; object-fit: cover;" src='https://recetas.eduardoparra.es/images/uploads/bollicaos.webp' alt="Instagram photo" />
+        <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px; box-sizing: border-box; text-align: center;">Bollicaos</div>
     </a>
 </div>
-<div class="image-container">
+<div style="position: relative; overflow: hidden; max-width: 100%; max-height: 100%;">
     <a href='https://recetas.eduardoparra.es/blog/br%C3%B3coli-al-lim%C3%B3n-con-costra-de-tomillo/' target="_blank">
-        <img src='https://recetas.eduardoparra.es/assets/logo.svg' alt="Instagram photo" />
-        <div class="image-title">Brócoli al limón con costra de tomillo</div>
+        <img style="width: 100%; height: 100%; object-fit: cover;" src='https://recetas.eduardoparra.es/assets/logo.svg' alt="Instagram photo" />
+        <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px; box-sizing: border-box; text-align: center;">Brócoli al limón con costra de tomillo</div>
     </a>
 </div>
-<div class="image-container">
+<div style="position: relative; overflow: hidden; max-width: 100%; max-height: 100%;">
     <a href='https://recetas.eduardoparra.es/blog/postre-de-cafe/' target="_blank">
-        <img src='https://recetas.eduardoparra.es/images/uploads/postre-cafe.webp' alt="Instagram photo" />
-        <div class="image-title">Flan de café con muy pocos ingredientes</div>
+        <img style="width: 100%; height: 100%; object-fit: cover;" src='https://recetas.eduardoparra.es/images/uploads/postre-cafe.webp' alt="Instagram photo" />
+        <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px; box-sizing: border-box; text-align: center;">Flan de café con muy pocos ingredientes</div>
     </a>
 </div>
-<div class="image-container">
+<div style="position: relative; overflow: hidden; max-width: 100%; max-height: 100%;">
     <a href='https://recetas.eduardoparra.es/blog/horchata/' target="_blank">
-        <img src='https://recetas.eduardoparra.es/images/uploads/img_20221030_122749.jpg' alt="Instagram photo" />
-        <div class="image-title">Horchata</div>
+        <img style="width: 100%; height: 100%; object-fit: cover;" src='https://recetas.eduardoparra.es/images/uploads/img_20221030_122749.jpg' alt="Instagram photo" />
+        <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px; box-sizing: border-box; text-align: center;">Horchata</div>
     </a>
-</div>
 </div>
 <!-- END_SECTION:recipes -->
+</div>
