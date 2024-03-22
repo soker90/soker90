@@ -32,20 +32,20 @@ const getLatestRecipes = () =>
       return 0;
     })
     .slice(0, 5)
-//     .map(
-//       ({ title, link, image, ...rest }) => `<div>
-//     <a href='${link}' target="_blank">
-//         <img width='20%' class="image-item" src='${
-//           image || "https://recetas.eduardoparra.es/assets/logo.svg"
-//         }' />
-//         <div class="image-title">${title}</div>
-//     </a>
-// </div>`
-//     )
-.map(({ title, link, image, ...rest }) => `[![${title}](${image || "https://recetas.eduardoparra.es/assets/logo.svg"})](${link})
-${title}
+    .map(
+      ({ title, link, image, ...rest }) => `<div>
+    <a href='${link}' target="_blank">
+        <img height="160px" style="object-fit: cover; min-width: '80px'" src='${
+          image || "https://recetas.eduardoparra.es/assets/logo.svg"
+        }' />
+        <div style="color: black; max-width: 100%">${title}</div>
+    </a>
+</div>`
+    )
+    // .map(({ title, link, image, ...rest }) => `[![${title}](${image || "https://recetas.eduardoparra.es/assets/logo.svg"})](${link})
+    // ${title}
 
-`)
+    // `)
     .join("\n");
 
   const newReadme = readme.replace(
