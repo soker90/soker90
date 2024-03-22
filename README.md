@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="URL_TEST">
+<link rel="stylesheet" type="text/css" href="styles.css">
 
 <p align="center" width="300">
    <img align="center" width="200" src="./assets/image.png" />
@@ -66,39 +66,25 @@
 
 ### 🧑‍🍳 My last cooking recipes
 
-
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; padding: 10px;">
 <!-- START_SECTION:recipes -->
-<div style="position: relative; overflow: hidden; max-width: 100%; max-height: 100%;">
-    <a href='https://recetas.eduardoparra.es/blog/cheesecake-de-dinosaurios/' target="_blank">
-        <img style="width: 100%; height: 100%; object-fit: cover;" src='https://recetas.eduardoparra.es/images/uploads/cheesecake-dinosaurios.webp' alt="Instagram photo" />
-        <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px; box-sizing: border-box; text-align: center;">Tarta de queso de dinosaurios</div>
-    </a>
-</div>
-<div style="position: relative; overflow: hidden; max-width: 100%; max-height: 100%;">
-    <a href='https://recetas.eduardoparra.es/blog/bollicaos/' target="_blank">
-        <img style="width: 100%; height: 100%; object-fit: cover;" src='https://recetas.eduardoparra.es/images/uploads/bollicaos.webp' alt="Instagram photo" />
-        <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px; box-sizing: border-box; text-align: center;">Bollicaos</div>
-    </a>
-</div>
-<div style="position: relative; overflow: hidden; max-width: 100%; max-height: 100%;">
-    <a href='https://recetas.eduardoparra.es/blog/br%C3%B3coli-al-lim%C3%B3n-con-costra-de-tomillo/' target="_blank">
-        <img style="width: 100%; height: 100%; object-fit: cover;" src='https://recetas.eduardoparra.es/assets/logo.svg' alt="Instagram photo" />
-        <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px; box-sizing: border-box; text-align: center;">Brócoli al limón con costra de tomillo</div>
-    </a>
-</div>
-<div style="position: relative; overflow: hidden; max-width: 100%; max-height: 100%;">
-    <a href='https://recetas.eduardoparra.es/blog/postre-de-cafe/' target="_blank">
-        <img style="width: 100%; height: 100%; object-fit: cover;" src='https://recetas.eduardoparra.es/images/uploads/postre-cafe.webp' alt="Instagram photo" />
-        <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px; box-sizing: border-box; text-align: center;">Flan de café con muy pocos ingredientes</div>
-    </a>
-</div>
-<div style="position: relative; overflow: hidden; max-width: 100%; max-height: 100%;">
-    <a href='https://recetas.eduardoparra.es/blog/horchata/' target="_blank">
-        <img style="width: 100%; height: 100%; object-fit: cover;" src='https://recetas.eduardoparra.es/images/uploads/img_20221030_122749.jpg' alt="Instagram photo" />
-        <div style="position: absolute; bottom: 0; left: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px; box-sizing: border-box; text-align: center;">Horchata</div>
-    </a>
-</div>
+[![Tarta de queso de dinosaurios](https://recetas.eduardoparra.es/images/uploads/cheesecake-dinosaurios.webp)](https://recetas.eduardoparra.es/blog/cheesecake-de-dinosaurios/)
+Tarta de queso de dinosaurios
+
+
+[![Bollicaos](https://recetas.eduardoparra.es/images/uploads/bollicaos.webp)](https://recetas.eduardoparra.es/blog/bollicaos/)
+Bollicaos
+
+
+[![Brócoli al limón con costra de tomillo](https://recetas.eduardoparra.es/assets/logo.svg)](https://recetas.eduardoparra.es/blog/br%C3%B3coli-al-lim%C3%B3n-con-costra-de-tomillo/)
+Brócoli al limón con costra de tomillo
+
+
+[![Flan de café con muy pocos ingredientes](https://recetas.eduardoparra.es/images/uploads/postre-cafe.webp)](https://recetas.eduardoparra.es/blog/postre-de-cafe/)
+Flan de café con muy pocos ingredientes
+
+
+[![Horchata](https://recetas.eduardoparra.es/images/uploads/img_20221030_122749.jpg)](https://recetas.eduardoparra.es/blog/horchata/)
+Horchata
+
+
 <!-- END_SECTION:recipes -->
-</div>
