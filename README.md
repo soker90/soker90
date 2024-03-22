@@ -65,7 +65,7 @@
 
 ### 🧑‍🍳 My last cooking recipes
 
-<div style='display: flex; gap: 1rem; flex-wrap: wrap;'>
+<!--<div style='display: flex; gap: 1rem; flex-wrap: wrap;'> -->
 <!-- START_SECTION:recipes -->
 - [Tarta de queso de dinosaurios](https://recetas.eduardoparra.es/blog/cheesecake-de-dinosaurios/)
 - [Bollicaos](https://recetas.eduardoparra.es/blog/bollicaos/)
@@ -73,4 +73,4 @@
 - [Flan de café con muy pocos ingredientes](https://recetas.eduardoparra.es/blog/postre-de-cafe/)
 - [Horchata](https://recetas.eduardoparra.es/blog/horchata/)
 <!-- END_SECTION:recipes -->
-</div>
+<!-- </div> -->
