@@ -56,11 +56,9 @@
 <!-- END_SECTION:links -->
 
 <!-- START_SECTION:books -->
-
 ### 📚 Currently reading
 
 [![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/2 "Isabella of Spain by William Thomas Walsh")
-
 <!-- END_SECTION:books -->
 
 ### 🧑‍🍳 My last cooking recipes
