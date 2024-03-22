@@ -48,12 +48,11 @@
 ### 👨‍🎓 Last resources added
 
 <!-- START_SECTION:links -->
-
-- [CSS Code Quality Analyzer](https://link.eduardoparra.es/30) -
-- [Fontsource](https://link.eduardoparra.es/29) -
-- [Tauri for desktop app](https://link.eduardoparra.es/28) -
-- [JSON Data Ai](https://link.eduardoparra.es/27) -
-- [Bruno](https://link.eduardoparra.es/26) -
+- [CSS Code Quality Analyzer](https://link.eduardoparra.es/30) - 
+- [Fontsource](https://link.eduardoparra.es/29) - 
+- [Tauri for desktop app](https://link.eduardoparra.es/28) - 
+- [JSON Data Ai](https://link.eduardoparra.es/27) - 
+- [Bruno](https://link.eduardoparra.es/26) - 
 <!-- END_SECTION:links -->
 
 <!-- START_SECTION:books -->
