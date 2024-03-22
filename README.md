@@ -67,35 +67,10 @@
 
 <div style='display: flex; gap: 1rem; flex-wrap: wrap;'>
 <!-- START_SECTION:recipes -->
-<div>
-    <a href='https://recetas.eduardoparra.es/blog/cheesecake-de-dinosaurios/' target="_blank">
-        <img height="160px" style="object-fit: cover; min-width: '80px'" src='https://recetas.eduardoparra.es/images/uploads/cheesecake-dinosaurios.webp' />
-        <div style="color: black; max-width: 100%">Tarta de queso de dinosaurios</div>
-    </a>
-</div>
-<div>
-    <a href='https://recetas.eduardoparra.es/blog/bollicaos/' target="_blank">
-        <img height="160px" style="object-fit: cover; min-width: '80px'" src='https://recetas.eduardoparra.es/images/uploads/bollicaos.webp' />
-        <div style="color: black; max-width: 100%">Bollicaos</div>
-    </a>
-</div>
-<div>
-    <a href='https://recetas.eduardoparra.es/blog/br%C3%B3coli-al-lim%C3%B3n-con-costra-de-tomillo/' target="_blank">
-        <img height="160px" style="object-fit: cover; min-width: '80px'" src='https://recetas.eduardoparra.es/assets/logo.svg' />
-        <div style="color: black; max-width: 100%">Brócoli al limón con costra de tomillo</div>
-    </a>
-</div>
-<div>
-    <a href='https://recetas.eduardoparra.es/blog/postre-de-cafe/' target="_blank">
-        <img height="160px" style="object-fit: cover; min-width: '80px'" src='https://recetas.eduardoparra.es/images/uploads/postre-cafe.webp' />
-        <div style="color: black; max-width: 100%">Flan de café con muy pocos ingredientes</div>
-    </a>
-</div>
-<div>
-    <a href='https://recetas.eduardoparra.es/blog/horchata/' target="_blank">
-        <img height="160px" style="object-fit: cover; min-width: '80px'" src='https://recetas.eduardoparra.es/images/uploads/img_20221030_122749.jpg' />
-        <div style="color: black; max-width: 100%">Horchata</div>
-    </a>
-</div>
+- [Tarta de queso de dinosaurios](https://recetas.eduardoparra.es/blog/cheesecake-de-dinosaurios/)
+- [Bollicaos](https://recetas.eduardoparra.es/blog/bollicaos/)
+- [Brócoli al limón con costra de tomillo](https://recetas.eduardoparra.es/blog/br%C3%B3coli-al-lim%C3%B3n-con-costra-de-tomillo/)
+- [Flan de café con muy pocos ingredientes](https://recetas.eduardoparra.es/blog/postre-de-cafe/)
+- [Horchata](https://recetas.eduardoparra.es/blog/horchata/)
 <!-- END_SECTION:recipes -->
 </div>
