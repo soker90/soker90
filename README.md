@@ -65,10 +65,10 @@
 
 <!--<div style='display: flex; gap: 1rem; flex-wrap: wrap;'> -->
 <!-- START_SECTION:recipes -->
+- [Masa de empanada](https://recetas.eduardoparra.es/blog/masa-empanada/)
 - [Tarta de queso de dinosaurios](https://recetas.eduardoparra.es/blog/cheesecake-de-dinosaurios/)
 - [Bollicaos](https://recetas.eduardoparra.es/blog/bollicaos/)
 - [Brócoli al limón con costra de tomillo](https://recetas.eduardoparra.es/blog/br%C3%B3coli-al-lim%C3%B3n-con-costra-de-tomillo/)
 - [Flan de café con muy pocos ingredientes](https://recetas.eduardoparra.es/blog/postre-de-cafe/)
-- [Horchata](https://recetas.eduardoparra.es/blog/horchata/)
 <!-- END_SECTION:recipes -->
 <!-- </div> -->
