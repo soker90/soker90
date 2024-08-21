@@ -31,7 +31,7 @@
 
 <div align="center" width='auto'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soker90&layout=compact&theme=react"/>
+    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soker90&layout=compact&theme=react&locale=es"/>
   </a>
 </div>
 
