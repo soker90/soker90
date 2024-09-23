@@ -58,8 +58,8 @@
 <!-- START_SECTION:books -->
 ### 📚 Currently reading
 
-[![1984](http://books.google.com/books/content?id=uyr8BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/soker90/libros/issues/2 "1984 by George Orwell")
-[![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/7 "Isabella of Spain by William Thomas Walsh")
+[![¿Hay filosofía en tu nevera?](http://books.google.com/books/content?id=JUnJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/soker90/libros/issues/0 "¿Hay filosofía en tu nevera? by Enric F. Gel")
+[![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/8 "Isabella of Spain by William Thomas Walsh")
 <!-- END_SECTION:books -->
 
 ### 🧑‍🍳 My last cooking recipes
