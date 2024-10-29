@@ -58,8 +58,8 @@
 <!-- START_SECTION:books -->
 ### 📚 Currently reading
 
-[![¿Hay filosofía en tu nevera?](http://books.google.com/books/content?id=JUnJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/soker90/libros/issues/0 "¿Hay filosofía en tu nevera? by Enric F. Gel")
-[![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/8 "Isabella of Spain by William Thomas Walsh")
+[![The Last Wish](http://books.google.com/books/content?id=qfXPGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/0 "The Last Wish by Andrzej Sapkowski")
+[![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/10 "Isabella of Spain by William Thomas Walsh")
 <!-- END_SECTION:books -->
 
 ### 🧑‍🍳 My last cooking recipes
