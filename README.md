@@ -58,7 +58,6 @@
 <!-- START_SECTION:books -->
 ### 📚 Currently reading
 
-[![Los jardines de la luna](http://books.google.com/books/content?id=BPbgACsuB2sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/soker90/libros/issues/3 "Los jardines de la luna by Steven Erikson")
 [![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/14 "Isabella of Spain by William Thomas Walsh")
 <!-- END_SECTION:books -->
 
