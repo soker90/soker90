@@ -59,17 +59,17 @@
 ### 👨‍🎓 Last resources added
 
 <!-- START_SECTION:links -->
-- [CSS Code Quality Analyzer](https://link.eduardoparra.es/30) - 
-- [Fontsource](https://link.eduardoparra.es/29) - 
-- [Tauri for desktop app](https://link.eduardoparra.es/28) - 
-- [JSON Data Ai](https://link.eduardoparra.es/27) - 
-- [Bruno](https://link.eduardoparra.es/26) - 
+- [jsDelivr](https://link.eduardoparra.es/issue-33)
+- [ts-pattern](https://link.eduardoparra.es/100)
+- [shadcn/ui](https://link.eduardoparra.es/101)
+- [Bigspring Light Astro](https://link.eduardoparra.es/102)
+- [Stablo Astro](https://link.eduardoparra.es/103)
 <!-- END_SECTION:links -->
 
 <!-- START_SECTION:books -->
 ### 📚 Currently reading
 
-[![Isabella of Spain](http://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/14 "Isabella of Spain by William Thomas Walsh")
+[![Isabella of Spain](https://books.google.com/books/content?id=M_mwngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/soker90/libros/issues/14 "Isabella of Spain by William Thomas Walsh")
 <!-- END_SECTION:books -->
 
 ### 🧑‍🍳 My last cooking recipes

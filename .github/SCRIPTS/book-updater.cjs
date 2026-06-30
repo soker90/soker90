@@ -41,7 +41,10 @@ const prepareForReadme = async ({ core, fetch }) => {
   const booksList = books
     .map(
       (book) =>
-        `[![${book.title}](${book.image})](https://github.com/soker90/libros/issues/${book.id} "${book.title} by ${book.authors?.[0]}")`
+        `[![${book.title}](${book.image?.replace(
+          /^http:/,
+          "https:"
+        )})](https://github.com/soker90/libros/issues/${book.id} "${book.title} by ${book.authors?.[0]}")`
     )
     .join("\n");
 

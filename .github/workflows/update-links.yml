@@ -2,29 +2,36 @@ name: Update Links
 
 on:
   schedule:
-    - cron: '*/60 * * * *'
-  
+    - cron: '0 * * * *'
+
   workflow_dispatch:
 
 jobs:
-  build:
+  links:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      # - uses: jamesgeorge007/github-activity-readme@master
-      #  env:
-      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
 
-      - uses: sarisia/actions-readme-feed@v1
-        id: feed
+      - name: Get links
+        uses: actions/github-script@v6
         with:
-          url: 'http://link.eduardoparra.es/rss.xml'
-          file: 'README.md'
-          format: '- [${title}](${url}) - ${excerpt}'
-          start_flag: '<!-- START_SECTION:links -->'
-          end_flag: '<!-- END_SECTION:links -->'
-          
-      - if: ${{ steps.feed.outputs.changed == true }}
-        uses: sarisia/actions-commit@master
-        
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const script = require('./.github/SCRIPTS/link-updater.cjs')
+            await script({core, fetch})
+
+      - name: Commit readme modifications
+        uses: stefanzweifel/git-auto-commit-action@v4
+        id: get-links
+        with:
+          file_pattern: 'README.md'
+          commit_message: 'Update links'
+
+      - name: Updated
+        if: steps.get-links.outputs.changes_detected == true
+        run: echo "Updated"
+
+      - name: Not updated
+        if: steps.get-links.outputs.changes_detected == false
+        run: echo "Not updated"
