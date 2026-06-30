@@ -27,9 +27,20 @@
   <p>A JS developer from <span style='font-weight: bold'>La Mancha</span> 🇪🇸</p>
 </div>
 
-## 🔥 Streak stats
+## 🛠️ Tech stack
 
 <div align="center" width='auto'>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+</div>
+
+## 📊 Top languages
+
+<div align="center" width='auto'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=soker90&show_icons=true&theme=react&locale=es&hide=stars"/>
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soker90&layout=compact&theme=react&locale=es"/>
   </a>
